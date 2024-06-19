@@ -9,6 +9,7 @@ pkgbase = hyprutils-git
 	makedepends = cmake
 	makedepends = gcc
 	makedepends = make
+	depends = pugixml
 	provides = hyprutils
 	conflicts = hyprutils
 	source = hyprutils::git+https://github.com/hyprwm/hyprutils.git
