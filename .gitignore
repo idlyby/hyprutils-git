@@ -1,3 +1,4 @@
-hyprutils*
-pkg
-src
+/*
+!/.gitignore
+!/.SRCINFO
+!/PKGBUILD
